@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>TEMBI'U APP</title>
+</head>
+<body>
+
+<h1>TEMBI'U APP</h1>
+<p>Digital Menu & Orders</p>
+
+</body>
+</html>
